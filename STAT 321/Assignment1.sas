@@ -1,5 +1,4 @@
 *Chad Jones;
-*V00512869
 *1/27/2020
 
 *manually enter data;
