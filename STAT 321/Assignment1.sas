@@ -1,5 +1,4 @@
 *Chad Jones;
-*1/27/2020
 
 *manually enter data;
 *name our variables ;
